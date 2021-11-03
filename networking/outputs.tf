@@ -1,5 +1,5 @@
 # -- Networking/outputs.tf
 
 output "vpc_id" {
-    value = aws_vpc.mtc_vpc.id
+  value = aws_vpc.mtc_vpc.id
 }
